@@ -43,3 +43,6 @@ A genre defines the field in which a problem exists.
 | 11 | [Bitcoins TSA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Bitcoins_TSA.ipynb) | Finance | TSA |
 | 12 | [Delhi Climate](https://github.com/DataMinati/TSA-Fauj/blob/main/Delhi_Climate_TSA.ipynb) | Nature | TSA |
 | 13 | [Flight TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Flights_TSA.ipynb) | Transportation | TSA |
+
+<hr>
+
