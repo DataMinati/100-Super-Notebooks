@@ -1,5 +1,5 @@
-# Super-Notebooks-7K
-A collection of 7000 Data Science Notebooks on different topics.
+# Super-Notebooks-1K
+A collection of 1000 Data Science Notebooks on different topics.
 
 ### Our Genres:
 A genre defines the field in which a problem exists.
