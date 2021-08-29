@@ -13,7 +13,10 @@ A collection of 7000 Data Science Notebooks on different topics.
 | 4 | [Zomato Restaurants EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Zomato_Analysis.ipynb) |  | EDA |
 | 5 | [MNIST Digit Recognization](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/MNIST_Number_Recognition_DL.ipynb) |  | DL |
 | 6 | [Customer Churn ANN](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Deep_Churning.ipynb) |  | DL |
-| 7 |  |  |
-| 8 |  |  |
-| 9 |  |  |
-| 10 |  |  |
+| 7 | [ARIMAX Approach to Stock Analysis](https://github.com/DataMinati/TSA-Fauj/blob/main/ARIMA_Approach_to_Index_2k18_Stocks.ipynb) | Finance | TSA |
+| 8 | [ARCH Modelling on Stock Data](https://github.com/DataMinati/TSA-Fauj/blob/main/ARCH_Approach_to_Index_2k18_Stocks.ipynb) | Finance | TSA |
+| 9 | [ARMA Approach to Stock Analysis](https://github.com/DataMinati/TSA-Fauj/blob/main/ARMA_Approach_to_Index2k18_Stocks.ipynb) | Finance | TSA |
+| 10 | [The Doge Tale](https://github.com/DataMinati/TSA-Fauj/blob/main/The_Doge_Tale.ipynb) | Finance | TSA |
+| 11 | [Bitcoins TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Bitcoins_TSA.ipynb) | Finance | TSA |
+| 12 | [Delhi Climate](https://github.com/DataMinati/TSA-Fauj/blob/main/Delhi_Climate_TSA.ipynb) | Nature | TSA |
+| 13 | [Flight TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Flights_TSA.ipynb) | Transportation | TSA |
