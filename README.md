@@ -12,13 +12,22 @@ A genre defines the field in which a problem exists.
 | Logistic | Nature | Oil, Minerals & Energy | Politics | Public Safety | 
 | Sales & Marketing | Science & Tech | Sports & Games | Transportation | Travels |
 
+### Divisions:
+| S.No. | Divisions |
+|-------|-----------|
+| 1 | Machine Learning (ML) |
+| 2 | Deep Learning (DL) |
+| 3 | Explanatory Data Analysis (EDA) |
+| 4 | Time Series Analysis (TSA) |
+| 5 | Natural Language Processing (NLP) |
+| 6 | Image Processing Computer Vision (IPCV) |
 
 
 ### Table of Contents:
 
 <hr>
 
-| S.No. | Notebook Name | Genre | Type | 
+| S.No. | Notebook Name | Genre | Divisions | 
 |-------|---------------|-------|------|
 | 1 | [Andriod Games](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Android_Games_EDA.ipynb) | Entertainment | EDA |
 | 2 | [Formula 1 EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Formula_1_EDA.ipynb) | Sports & Games | EDA |
