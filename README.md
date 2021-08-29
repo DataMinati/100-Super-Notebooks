@@ -4,7 +4,7 @@ A collection of 7000 Data Science Notebooks on different topics.
 ### Our Genres:
 A genre defines the field in which a problem exists.
 
-| Genre | Genre | Genre | Genre | Genre |
+| Genre |
 |-------|-------|-------|-------|-------|
 | Aerospace | Agriculture | Astronomy | Banking | Chemicals |
 | Customer relations | Cyber security | E-Commerce | Education | Finance |
