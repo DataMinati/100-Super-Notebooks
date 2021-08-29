@@ -10,7 +10,7 @@ A genre defines the field in which a problem exists.
 | Cyber security | E-Commerce | Education | Entertainment | Finance |
 | Food and Lifestyle | Healthcare | Human Resouces| IT & Media | Industries | 
 | Logistic | Nature | Oil, Minerals & Energy | Politics | Public Safety | 
-| Sales & Marketing | Science & Tech | Sports and Games | Transportation | Travels |
+| Sales & Marketing | Science & Tech | Sports & Games | Transportation | Travels |
 
 
 
@@ -21,10 +21,10 @@ A genre defines the field in which a problem exists.
 | S.No. | Notebook Name | Genre | Type | 
 |-------|---------------|-------|------|
 | 1 | [Andriod Games](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Android_Games_EDA.ipynb) | Entertainment | EDA |
-| 2 | [Formula 1 EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Formula_1_EDA.ipynb) | Sports | EDA |
+| 2 | [Formula 1 EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Formula_1_EDA.ipynb) | Sports & Games | EDA |
 | 3 | [Mall Customers Clustering](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Mall_Customer_Clustering.ipynb) | Sales & Marketing | ML |
-| 4 | [Zomato Restaurants EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Zomato_Analysis.ipynb) | Food and Travel | EDA |
-| 5 | [MNIST Digit Recognization](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/MNIST_Number_Recognition_DL.ipynb) | Image Processing | DL |
+| 4 | [Zomato Restaurants EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Zomato_Analysis.ipynb) | Food & Lifestyle | EDA |
+| 5 | [MNIST Digit Recognization](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/MNIST_Number_Recognition_DL.ipynb) | Science & Tech | DL |
 | 6 | [Customer Churn ANN](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Deep_Churning.ipynb) | Finance | DL |
 | 7 | [ARIMAX Approach to Stock Analysis](https://github.com/DataMinati/TSA-Fauj/blob/main/ARIMA_Approach_to_Index_2k18_Stocks.ipynb) | Finance | TSA |
 | 8 | [ARCH Modelling on Stock Data](https://github.com/DataMinati/TSA-Fauj/blob/main/ARCH_Approach_to_Index_2k18_Stocks.ipynb) | Finance | TSA |
