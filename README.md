@@ -7,7 +7,11 @@ A genre defines the field in which a problem exists.
 | G | E | N | R | E |
 |-------|-------|-------|-------|-------|
 | Aerospace | Agriculture | Astronomy | Banking | Chemicals |
-| Customer relations | Cyber security | E-Commerce | Education | Finance |
+| Customer relations | Cyber security | E-Commerce | Education | Entertainment |
+| Finance | Food and Lifestyle | Healthcare | Human Resouces| IT & Media |
+| Logistic | Nature | Networking | Oil and Energy | Politics | 
+| Public Safety | Sales and Marketing | Sports | Transportation | Travels |
+
 
 
 ### Table of Contents:
