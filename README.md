@@ -17,6 +17,6 @@ A collection of 7000 Data Science Notebooks on different topics.
 | 8 | [ARCH Modelling on Stock Data](https://github.com/DataMinati/TSA-Fauj/blob/main/ARCH_Approach_to_Index_2k18_Stocks.ipynb) | Finance | TSA |
 | 9 | [ARMA Approach to Stock Analysis](https://github.com/DataMinati/TSA-Fauj/blob/main/ARMA_Approach_to_Index2k18_Stocks.ipynb) | Finance | TSA |
 | 10 | [The Doge Tale](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/The_Doge_Tale.ipynb) | Finance | TSA |
-| 11 | [Bitcoins TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Bitcoins_TSA.ipynb) | Finance | TSA |
+| 11 | [Bitcoins TSA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Bitcoins_TSA.ipynb) | Finance | TSA |
 | 12 | [Delhi Climate](https://github.com/DataMinati/TSA-Fauj/blob/main/Delhi_Climate_TSA.ipynb) | Nature | TSA |
 | 13 | [Flight TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Flights_TSA.ipynb) | Transportation | TSA |
