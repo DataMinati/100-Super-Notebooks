@@ -13,14 +13,14 @@ A genre defines the field in which a problem exists.
 | Sales & Marketing | Science & Tech | Sports & Games | Transportation | Travels |
 
 ### Divisions:
-| S.No. | Divisions |
-|-------|-----------|
-| 1 | Machine Learning (ML) |
-| 2 | Deep Learning (DL) |
-| 3 | Explanatory Data Analysis (EDA) |
-| 4 | Time Series Analysis (TSA) |
-| 5 | Natural Language Processing (NLP) |
-| 6 | Image Processing Computer Vision (IPCV) |
+| S.No. | Divisions | No. of Notebooks |
+|-------|-----------|------------------|
+| 1 | Machine Learning (ML) | 1 |
+| 2 | Deep Learning (DL) | 2 |
+| 3 | Explanatory Data Analysis (EDA) | 3 |
+| 4 | Time Series Analysis (TSA) | 7 | 
+| 5 | Natural Language Processing (NLP) | 0 | 
+| 6 | Image Processing Computer Vision (IPCV) | 0 |
 
 
 ### Table of Contents:
