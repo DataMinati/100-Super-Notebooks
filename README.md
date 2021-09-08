@@ -15,13 +15,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 1 |
+| 1 | Machine Learning (ML) | 2 |
 | 2 | Deep Learning (DL) | 2 |
 | 3 | Explanatory Data Analysis (EDA) | 3 |
 | 4 | Time Series Analysis (TSA) | 7 | 
 | 5 | Natural Language Processing (NLP) | 0 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 14 |
+| T | Total Works | 15 |
 
 
 ### Table of Contents:
@@ -44,6 +44,7 @@ A genre defines the field in which a problem exists.
 | 12 | [Delhi Climate](https://github.com/DataMinati/TSA-Fauj/blob/main/Delhi_Climate_TSA.ipynb) | Nature | TSA |
 | 13 | [Flight TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Flights_TSA.ipynb) | Transportation | TSA |
 | 14 | [Change background](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Change_Background.ipynb) | Change Background | IPCV | 
+| 15 | [Calorie Burnout Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Calorie_Burnout_Prediction.ipynb) | Healthcare | ML |
 
 <hr>
 
