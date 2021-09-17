@@ -30,7 +30,7 @@ A genre defines the field in which a problem exists.
 
 | S.No. | Notebook Name | Genre | Divisions | 
 |-------|---------------|-------|------|
-| 1 | [Andriod Games](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Android_Games_EDA.ipynb) | Entertainment | EDA |
+| 1 | [Android Games](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Android_Games_EDA.ipynb) | Entertainment | EDA |
 | 2 | [Formula 1 EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Formula_1_EDA.ipynb) | Sports & Games | EDA |
 | 3 | [Mall Customers Clustering](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Mall_Customer_Clustering.ipynb) | Sales & Marketing | ML |
 | 4 | [Zomato Restaurants EDA](https://github.com/DataMinati/Super-Notebooks-7K/blob/main/Zomato_Analysis.ipynb) | Food & Lifestyle | EDA |
