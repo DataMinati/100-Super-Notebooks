@@ -18,10 +18,10 @@ A genre defines the field in which a problem exists.
 | 1 | Machine Learning (ML) | 2 |
 | 2 | Deep Learning (DL) | 2 |
 | 3 | Explanatory Data Analysis (EDA) | 3 |
-| 4 | Time Series Analysis (TSA) | 7 | 
+| 4 | Time Series Analysis (TSA) | 8 | 
 | 5 | Natural Language Processing (NLP) | 0 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 15 |
+| T | Total Works | 16 |
 
 
 ### Table of Contents:
@@ -45,6 +45,7 @@ A genre defines the field in which a problem exists.
 | 13 | [Flight TSA](https://github.com/DataMinati/TSA-Fauj/blob/main/Flights_TSA.ipynb) | Transportation | TSA |
 | 14 | [Change background](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Change_Background.ipynb) | Change Background | IPCV | 
 | 15 | [Calorie Burnout Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Calorie_Burnout_Prediction.ipynb) | Healthcare | ML |
+| 16 | [Netflix Stock Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Netflix_Stock_Prediction.ipynb) | Finance | TSA |
 
 <hr>
 
