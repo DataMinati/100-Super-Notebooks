@@ -48,6 +48,7 @@ A genre defines the field in which a problem exists.
 | 16 | [Netflix Stock Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Netflix_Stock_Prediction.ipynb) | Finance | TSA |
 | 17 | [Covid Vaccine Stocks](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Covid_Vaccines_Stocks.ipynb) | Healthcare | TSA |
 | 18 | [Glass Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Glass_Classification.ipynb) | Industries | ML |
+| 19 | [Face Recognition using PCA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Face_Recognition_using_PCA_RA039_BDA.ipynb) | Public Safety | ML |
 
 <hr>
 
