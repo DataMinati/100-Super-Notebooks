@@ -15,13 +15,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 4 |
+| 1 | Machine Learning (ML) | 5 |
 | 2 | Deep Learning (DL) | 2 |
 | 3 | Explanatory Data Analysis (EDA) | 3 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 0 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 19 |
+| T | Total Works | 20 |
 
 
 ### Table of Contents:
@@ -49,6 +49,7 @@ A genre defines the field in which a problem exists.
 | 17 | [Covid Vaccine Stocks](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Covid_Vaccines_Stocks.ipynb) | Healthcare | TSA |
 | 18 | [Glass Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Glass_Classification.ipynb) | Industries | ML |
 | 19 | [Face Recognition using PCA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Face_Recognition_using_PCA_RA039_BDA.ipynb) | Public Safety | ML |
+| 20 | [Titanic Data Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Titanic_EDA.ipynb) | Education | ML |
 
 <hr>
 
