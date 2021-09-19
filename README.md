@@ -17,11 +17,11 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 5 |
 | 2 | Deep Learning (DL) | 2 |
-| 3 | Explanatory Data Analysis (EDA) | 4 |
+| 3 | Explanatory Data Analysis (EDA) | 5 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 0 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 21 |
+| T | Total Works | 22 |
 
 
 ### Table of Contents:
@@ -51,6 +51,7 @@ A genre defines the field in which a problem exists.
 | 19 | [Face Recognition using PCA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Face_Recognition_using_PCA_RA039_BDA.ipynb) | Public Safety | ML |
 | 20 | [Titanic Data Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Titanic_EDA.ipynb) | Education | ML |
 | 21 | [Olympics 2k21 EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Olympic_EDA.ipynb) | Entertainment | EDA |
+| 22 | [Placement Season Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Placements_EDA.ipynb) | Education | EDA |
 
 <hr>
 
