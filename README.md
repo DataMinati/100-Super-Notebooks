@@ -52,6 +52,7 @@ A genre defines the field in which a problem exists.
 | 20 | [Titanic Data Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Titanic_EDA.ipynb) | Education | ML |
 | 21 | [Olympics 2k21 EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Olympic_EDA.ipynb) | Entertainment | EDA |
 | 22 | [Placement Season Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Placements_EDA.ipynb) | Education | EDA |
+| 23 | [Digit Recognition](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Number_Recognition_DL.ipynb) | Education | DL |
 
 <hr>
 
