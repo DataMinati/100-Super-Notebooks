@@ -19,9 +19,9 @@ A genre defines the field in which a problem exists.
 | 2 | Deep Learning (DL) | 3 |
 | 3 | Explanatory Data Analysis (EDA) | 8 |
 | 4 | Time Series Analysis (TSA) | 9 | 
-| 5 | Natural Language Processing (NLP) | 0 | 
+| 5 | Natural Language Processing (NLP) | 1 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 27 |
+| T | Total Works | 28 |
 
 
 ### Table of Contents:
@@ -57,5 +57,6 @@ A genre defines the field in which a problem exists.
 | 25 | [Money Hiest EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Bella_Ciao.ipynb) | Entertainment | EDA |
 | 26 | [Pokemon EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Pokemon_AutoViz.ipynb) | Entertainment | EDA |
 | 27 | [Laptop Price Prediction and Recommendation](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Laptop_EDA_and_Price_Prediction.ipynb) | E-commerce | ML |
+| 28 | [Baby_names Gender Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Baby_Names_Gender_Classification.ipynb) | Human Resource | NLP |
 <hr>
 
