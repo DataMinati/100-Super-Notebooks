@@ -56,5 +56,6 @@ A genre defines the field in which a problem exists.
 | 24 | [Customer Segmentation](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Customer_Segmentation.ipynb) | E-Commerce | EDA |
 | 25 | [Money Hiest EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Bella_Ciao.ipynb) | Entertainment | EDA |
 | 26 | [Pokemon EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Pokemon_AutoViz.ipynb) | Entertainment | EDA |
+| 27 | [Laptop Price Prediction and Recommendation](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Laptop_EDA_and_Price_Prediction.ipynb) | E-commerce | ML |
 <hr>
 
