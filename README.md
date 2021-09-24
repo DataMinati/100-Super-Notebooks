@@ -58,5 +58,6 @@ A genre defines the field in which a problem exists.
 | 26 | [Pokemon EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Pokemon_AutoViz.ipynb) | Entertainment | EDA |
 | 27 | [Laptop Price Prediction and Recommendation](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Laptop_EDA_and_Price_Prediction.ipynb) | E-commerce | ML |
 | 28 | [Baby_names Gender Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Baby_Names_Gender_Classification.ipynb) | Human Resource | NLP |
+| 29 | [Sales Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Sales_Prediction.ipynb) | E-Commerce | EDA |
 <hr>
 
