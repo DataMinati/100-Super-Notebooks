@@ -19,9 +19,9 @@ A genre defines the field in which a problem exists.
 | 2 | Deep Learning (DL) | 4 |
 | 3 | Explanatory Data Analysis (EDA) | 11 |
 | 4 | Time Series Analysis (TSA) | 9 | 
-| 5 | Natural Language Processing (NLP) | 1 | 
+| 5 | Natural Language Processing (NLP) | 2 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 32 |
+| T | Total Works | 33 |
 
 
 ### Table of Contents:
@@ -62,6 +62,6 @@ A genre defines the field in which a problem exists.
 | 30 | [Police Killings](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Police_Killings_EDA.ipynb) | Public Safety | EDA |
 | 31 | [Heart Attack Prediction (ANN)](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Heart_Attack_Prediction.ipynb) | Healthcare | DL |
 | 32 | [Education in India](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Education_in_India.ipynb) | Education | EDA |
-
+| 33 | [Text Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Word_Classification.ipynb) | Customer Relations | NLP |
 <hr>
 
