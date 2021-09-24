@@ -16,12 +16,12 @@ A genre defines the field in which a problem exists.
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 6 |
-| 2 | Deep Learning (DL) | 3 |
+| 2 | Deep Learning (DL) | 4 |
 | 3 | Explanatory Data Analysis (EDA) | 10 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 1 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 30 |
+| T | Total Works | 31 |
 
 
 ### Table of Contents:
@@ -60,5 +60,6 @@ A genre defines the field in which a problem exists.
 | 28 | [Baby_names Gender Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Baby_Names_Gender_Classification.ipynb) | Human Resource | NLP |
 | 29 | [Sales Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Sales_Prediction.ipynb) | E-Commerce | EDA |
 | 30 | [Police Killings](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Police_Killings_EDA.ipynb) | Public Safety | EDA |
+| 31 | [Heart Attack Prediction (ANN)](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Heart_Attack_Prediction.ipynb) | Healthcare | DL |
 <hr>
 
