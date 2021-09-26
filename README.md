@@ -15,13 +15,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 8 |
+| 1 | Machine Learning (ML) | 9 |
 | 2 | Deep Learning (DL) | 4 |
 | 3 | Explanatory Data Analysis (EDA) | 11 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 3 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 36 |
+| T | Total Works | 37 |
 
 
 ### Table of Contents:
@@ -66,5 +66,6 @@ A genre defines the field in which a problem exists.
 | 34 | [Webtoon Comics Humour Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Webtoon_Comics_Sentiments_Analysis.ipynb) | Entertainment | NLP |
 | 35 | [Loan Eligibility Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Loan_Eligibility.ipynb) | Finance | ML |
 | 36 | [Water Quality Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Water_Quality_Analysis.ipynb) | Nature | ML |
+| 37 | [Bank Marketing Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Bank_Marketing_Analysis.ipynb) | Finance | ML |
 <hr>
 
