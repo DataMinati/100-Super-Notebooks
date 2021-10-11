@@ -68,5 +68,6 @@ A genre defines the field in which a problem exists.
 | 36 | [Water Quality Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Water_Quality_Analysis.ipynb) | Nature | ML |
 | 37 | [Bank Marketing Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Bank_Marketing_Analysis.ipynb) | Finance | ML |
 | 38 | [A/B Test Food Marketing](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/A_B_Test_Food_Marketing.ipynb) | Sales & Marketing | ML |
+| 39 | [Coffee & Coding](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Coffee_%26_Code.ipynb) | Food and Lifestyle | EDA |
 <hr>
 
