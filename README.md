@@ -17,11 +17,11 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 10 |
 | 2 | Deep Learning (DL) | 4 |
-| 3 | Explanatory Data Analysis (EDA) | 11 |
+| 3 | Explanatory Data Analysis (EDA) | 12 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 3 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 38 |
+| T | Total Works | 39 |
 
 
 ### Table of Contents:
