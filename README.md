@@ -64,7 +64,7 @@ A genre defines the field in which a problem exists.
 | 32 | [Education in India](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Education_in_India.ipynb) | Education | EDA |
 | 33 | [Text Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Word_Classification.ipynb) | Customer Relations | NLP |
 | 34 | [Webtoon Comics Humour Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Webtoon_Comics_Sentiments_Analysis.ipynb) | Entertainment | NLP |
-| 35 | [Loan Eligibility Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Loan_Eligibility.ipynb) | Finance | ML |
+| 35 | [Loan Eligibility Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Loan_Eligibility.ipynb) | Banking | ML |
 | 36 | [Water Quality Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Water_Quality_Analysis.ipynb) | Nature | ML |
 | 37 | [Bank Marketing Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Bank_Marketing_Analysis.ipynb) | Finance | ML |
 | 38 | [A/B Test Food Marketing](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/A_B_Test_Food_Marketing.ipynb) | Sales & Marketing | ML |
