@@ -17,11 +17,11 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 10 |
 | 2 | Deep Learning (DL) | 4 |
-| 3 | Explanatory Data Analysis (EDA) | 12 |
+| 3 | Explanatory Data Analysis (EDA) | 13 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 3 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 39 |
+| T | Total Works | 40 |
 
 
 ### Table of Contents:
@@ -69,5 +69,6 @@ A genre defines the field in which a problem exists.
 | 37 | [Bank Marketing Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Bank_Marketing_Analysis.ipynb) | Finance | ML |
 | 38 | [A/B Test Food Marketing](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/A_B_Test_Food_Marketing.ipynb) | Sales & Marketing | ML |
 | 39 | [Coffee & Coding](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Coffee_%26_Code.ipynb) | Food and Lifestyle | EDA |
+| 40 | [NFT_EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/NFT_Sales_EDA.ipynb) | Finance | EDA |
 <hr>
 
