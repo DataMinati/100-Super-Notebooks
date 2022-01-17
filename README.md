@@ -15,13 +15,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 12 |
+| 1 | Machine Learning (ML) | 13 |
 | 2 | Deep Learning (DL) | 4 |
 | 3 | Exporatory Data Analysis (EDA) | 15 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 3 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 44 |
+| T | Total Works | 45 |
 
 
 ### Table of Contents:
@@ -74,5 +74,6 @@ A genre defines the field in which a problem exists.
 | 42 | [Star Types](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Star_Types.ipynb) | Astronomy | ML |
 | 43 | [GDP EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/GDP_EDA.ipynb) | Finance | EDA |
 | 44 | [Car Tyre EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Car_Tyres_EDA.ipynb) | Transportation | EDA |
+| 45 | [UPI Transaction Analysis and Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/UPI_Transaction_Modelling_and_Analysis.ipynb) | Finance | ML |
 <hr>
 
