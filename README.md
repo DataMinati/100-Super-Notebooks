@@ -17,11 +17,11 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 12 |
 | 2 | Deep Learning (DL) | 4 |
-| 3 | Explanatory Data Analysis (EDA) | 13 |
+| 3 | Exporatory Data Analysis (EDA) | 14 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 3 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 42 |
+| T | Total Works | 43 |
 
 
 ### Table of Contents:
@@ -72,5 +72,6 @@ A genre defines the field in which a problem exists.
 | 40 | [NFT_EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/NFT_Sales_EDA.ipynb) | Finance | EDA |
 | 41 | [Telco Churn Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Telco_Churn_Analysis.ipynb) | Banking | ML |
 | 42 | [Star Types](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Star_Types.ipynb) | Astronomy | ML |
+| 43 | [GDP EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/GDP_EDA.ipynb) | Finance | EDA |
 <hr>
 
