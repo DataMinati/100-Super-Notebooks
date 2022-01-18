@@ -17,11 +17,11 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 14 |
 | 2 | Deep Learning (DL) | 4 |
-| 3 | Exporatory Data Analysis (EDA) | 15 |
+| 3 | Exporatory Data Analysis (EDA) | 16 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 4 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 47 |
+| T | Total Works | 48 |
 
 
 ### Table of Contents:
@@ -77,5 +77,6 @@ A genre defines the field in which a problem exists.
 | 45 | [UPI Transaction Analysis and Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/UPI_Transaction_Modelling_and_Analysis.ipynb) | Finance | ML |
 | 46 | [Cyberbullying Twitter](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Cyberbullying_Twitter.ipynb) | IT & Media | NLP |
 | 47 | [TPS22 Analytic Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/TPS22_Analytic_Modelling.ipynb) | Entertainment | ML |
+| 48 | [Kaggle Mart Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Kaggle_Mart_Analysis.ipynb) | Education | EDA |
 <hr>
 
