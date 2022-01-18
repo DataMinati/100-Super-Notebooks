@@ -15,7 +15,7 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 13 |
+| 1 | Machine Learning (ML) | 14 |
 | 2 | Deep Learning (DL) | 4 |
 | 3 | Exporatory Data Analysis (EDA) | 15 |
 | 4 | Time Series Analysis (TSA) | 9 | 
@@ -76,5 +76,6 @@ A genre defines the field in which a problem exists.
 | 44 | [Car Tyre EDA](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Car_Tyres_EDA.ipynb) | Transportation | EDA |
 | 45 | [UPI Transaction Analysis and Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/UPI_Transaction_Modelling_and_Analysis.ipynb) | Finance | ML |
 | 46 | [Cyberbullying Twitter](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Cyberbullying_Twitter.ipynb) | IT & Media | NLP |
+| 47 | [TPS22 Analytic Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/TPS22_Analytic_Modelling.ipynb) | Entertainment | ML |
 <hr>
 
