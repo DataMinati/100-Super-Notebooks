@@ -21,7 +21,7 @@ A genre defines the field in which a problem exists.
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 4 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 46 |
+| T | Total Works | 47 |
 
 
 ### Table of Contents:
