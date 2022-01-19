@@ -21,13 +21,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 15 |
+| 1 | Machine Learning (ML) | 16 |
 | 2 | Deep Learning (DL) | 4 |
 | 3 | Exporatory Data Analysis (EDA) | 16 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 4 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 49 |
+| T | Total Works | 50 |
 
 
 ### Table of Contents:
@@ -85,6 +85,7 @@ A genre defines the field in which a problem exists.
 | 47 | [TPS22 Analytic Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/TPS22_Analytic_Modelling.ipynb) | Entertainment | ML |
 | 48 | [Kaggle Mart Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Kaggle_Mart_Analysis.ipynb) | Education | EDA |
 | 49 | [Medical Cost Predition](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Medical_Cost_Prediction.ipynb)| Healthcare | ML |
+| 50 | [Breast Camcer Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Breast_Cancer_Detection.ipynb) | Healthcare | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
