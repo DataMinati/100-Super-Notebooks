@@ -25,9 +25,9 @@ A genre defines the field in which a problem exists.
 | 2 | Deep Learning (DL) | 4 |
 | 3 | Exporatory Data Analysis (EDA) | 16 |
 | 4 | Time Series Analysis (TSA) | 9 | 
-| 5 | Natural Language Processing (NLP) | 5 | 
+| 5 | Natural Language Processing (NLP) | 6 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 53 |
+| T | Total Works | 54 |
 
 
 ### Table of Contents:
@@ -89,7 +89,8 @@ A genre defines the field in which a problem exists.
 | 51 | [Alexa Sentiments Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Alexa_Sentiments_Analysis.ipynb) | Entertainment | NLP |
 | 52 | [Song popularity Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Song_Popularity_Analysis.ipynb) | Entertainment | ML |
 | 53 | [Brain Tumour Classification and Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Brain_Tumour_Classification_and_Prediction.ipynb) | Healthcare | ML |
+| 54 | [Q&A Chatbot Modelling](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Q%26A_Chatbot_Modelling.ipynb) |  Customer relations | NLP |
 <hr>
 
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
