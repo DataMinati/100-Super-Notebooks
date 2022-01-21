@@ -21,13 +21,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 18 |
+| 1 | Machine Learning (ML) | 19 |
 | 2 | Deep Learning (DL) | 6 |
 | 3 | Exporatory Data Analysis (EDA) | 16 |
 | 4 | Time Series Analysis (TSA) | 9 | 
 | 5 | Natural Language Processing (NLP) | 7 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 57 |
+| T | Total Works | 58 |
 
 
 ### Table of Contents:
@@ -93,6 +93,7 @@ A genre defines the field in which a problem exists.
 | 55 | [Amazon Customer Reviews](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Amazon_Reviews_Analysis.ipynb) | Sales and marketing | NLP |
 | 56 | [Smart Grid Prediction](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Smart_Grid_Prediction.ipynb) | Oil, Minerals & Energy | DL |
 | 57 | [Sign Language Detection](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Sign_Language_Detection.ipynb) | Education | DL |
+| 58 | [Soil Fertility Analysis Report](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Soil_Fertility_Analysis.ipynb) | Agriculture | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
