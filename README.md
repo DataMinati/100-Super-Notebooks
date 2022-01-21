@@ -24,10 +24,10 @@ A genre defines the field in which a problem exists.
 | 1 | Machine Learning (ML) | 20 |
 | 2 | Deep Learning (DL) | 6 |
 | 3 | Exporatory Data Analysis (EDA) | 16 |
-| 4 | Time Series Analysis (TSA) | 9 | 
+| 4 | Time Series Analysis (TSA) | 10 | 
 | 5 | Natural Language Processing (NLP) | 7 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 59 |
+| T | Total Works | 60 |
 
 
 ### Table of Contents:
@@ -95,6 +95,7 @@ A genre defines the field in which a problem exists.
 | 57 | [Sign Language Detection](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Sign_Language_Detection.ipynb) | Education | DL |
 | 58 | [Soil Fertility Analysis Report](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Soil_Fertility_Analysis.ipynb) | Agriculture | ML |
 | 59 | [Mushroom Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Mushroom_Classification.ipynb) | Agriculture | ML |
+| 60 | [Dynamic Crypto Screening](https://colab.research.google.com/drive/1wlkm2Jy-SyaAt55lWnDB0rDAR9I9a_2N?usp=sharing) | Finance | TSA |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
