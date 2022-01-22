@@ -1,5 +1,5 @@
-# Super-Notebooks-1K
-A collection of 1000 Data Science Notebooks on different topics.
+# Super-Notebooks-100
+A collection of 100 Data Science Notebooks on different topics.
 ![m](https://user-images.githubusercontent.com/64016811/150097045-9bb8a4dd-d0ee-4980-809b-87a77bb00612.jpeg)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
@@ -22,12 +22,12 @@ A genre defines the field in which a problem exists.
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 20 |
-| 2 | Deep Learning (DL) | 6 |
+| 2 | Deep Learning (DL) | 7 |
 | 3 | Exporatory Data Analysis (EDA) | 16 |
 | 4 | Time Series Analysis (TSA) | 11 | 
 | 5 | Natural Language Processing (NLP) | 7 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 61 |
+| T | Total Works | 62 |
 
 
 ### Table of Contents:
@@ -97,6 +97,7 @@ A genre defines the field in which a problem exists.
 | 59 | [Mushroom Classification](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Mushroom_Classification.ipynb) | Agriculture | ML |
 | 60 | [Dynamic Crypto Screening](https://colab.research.google.com/drive/1wlkm2Jy-SyaAt55lWnDB0rDAR9I9a_2N?usp=sharing) | Finance | TSA |
 | 61 | [Bank Of England Interest Analysis](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/BoE_interest_analysis.ipynb) | Banking | TSA |
+| 62 | [Sarcasm Detection](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Sarcasm_Detection.ipynb) | IT & Media | DL |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
