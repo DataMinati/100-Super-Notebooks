@@ -101,6 +101,7 @@ A genre defines the field in which a problem exists.
 | 63 | [Human Genome Classificaion](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Human_Genome_Classification.ipynb) | Science & Tech | ML 
 | 64 | [Coursera Course Recommendation](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Coursera_Course_Recommendation_Engine.ipynb) | Education | NLP |
 | 65 | [Hepatitis C Medical Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Hepatitis_C_Medical_Analysis.ipynb) | Healthcare | ML |
+| 66 | [Movie Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Movie_Rating_Analysis.ipynb) | Entertainment | NLP |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
