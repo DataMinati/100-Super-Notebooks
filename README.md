@@ -21,13 +21,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 21 |
+| 1 | Machine Learning (ML) | 22 |
 | 2 | Deep Learning (DL) | 7 |
 | 3 | Exporatory Data Analysis (EDA) | 16 |
 | 4 | Time Series Analysis (TSA) | 11 | 
 | 5 | Natural Language Processing (NLP) | 8 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 64 |
+| T | Total Works | 65 |
 
 
 ### Table of Contents:
@@ -100,6 +100,7 @@ A genre defines the field in which a problem exists.
 | 62 | [Sarcasm Detection](https://github.com/DataMinati/Super-Notebooks-1K/blob/main/Sarcasm_Detection.ipynb) | IT & Media | DL |
 | 63 | [Human Genome Classificaion](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Human_Genome_Classification.ipynb) | Science & Tech | ML 
 | 64 | [Coursera Course Recommendation](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Coursera_Course_Recommendation_Engine.ipynb) | Education | NLP |
+| 65 | [Hepatitis C Medical Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Hepatitis_C_Medical_Analysis.ipynb) | Healthcare | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
