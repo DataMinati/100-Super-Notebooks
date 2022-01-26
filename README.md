@@ -23,11 +23,11 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 22 |
 | 2 | Deep Learning (DL) | 7 |
-| 3 | Exporatory Data Analysis (EDA) | 16 |
+| 3 | Exporatory Data Analysis (EDA) | 17 |
 | 4 | Time Series Analysis (TSA) | 11 | 
 | 5 | Natural Language Processing (NLP) | 9 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 66 |
+| T | Total Works | 67 |
 
 
 ### Table of Contents:
@@ -102,6 +102,7 @@ A genre defines the field in which a problem exists.
 | 64 | [Coursera Course Recommendation](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Coursera_Course_Recommendation_Engine.ipynb) | Education | NLP |
 | 65 | [Hepatitis C Medical Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Hepatitis_C_Medical_Analysis.ipynb) | Healthcare | ML |
 | 66 | [Movie Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Movie_Rating_Analysis.ipynb) | Entertainment | NLP |
+| 67 | [Indian Unicorn Startups](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Indian_Startups.ipynb) | Industries | EDA |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
