@@ -21,13 +21,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 24 |
+| 1 | Machine Learning (ML) | 25 |
 | 2 | Deep Learning (DL) | 8 |
 | 3 | Exporatory Data Analysis (EDA) | 18 |
 | 4 | Time Series Analysis (TSA) | 11 | 
 | 5 | Natural Language Processing (NLP) | 12 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 74 |
+| T | Total Works | 75 |
 
 
 ### Table of Contents:
@@ -110,7 +110,7 @@ A genre defines the field in which a problem exists.
 | 72 | [Horse Survival Prediction](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Horse_Survival_Prediction.ipynb) | Healthcare | ML |
 | 73 | [Incomplete Sentence Prediction](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Incomplete_Sentence_Detection.ipynb) | Cybersecurity | NLP |
 | 74 | [Patient Survival Prediction (using PyTorch)](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Patient_Survival_Predictor_(using_Pytorch).ipynb) | Healthcare | DL |
-
+| 75 | [Employee Attrition Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Employee_Attrition_Analysis.ipynb) | Human Resource | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
