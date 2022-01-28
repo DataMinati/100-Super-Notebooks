@@ -21,13 +21,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 23 |
+| 1 | Machine Learning (ML) | 24 |
 | 2 | Deep Learning (DL) | 7 |
 | 3 | Exporatory Data Analysis (EDA) | 18 |
 | 4 | Time Series Analysis (TSA) | 11 | 
 | 5 | Natural Language Processing (NLP) | 11 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 71 |
+| T | Total Works | 72 |
 
 
 ### Table of Contents:
@@ -107,6 +107,7 @@ A genre defines the field in which a problem exists.
 | 69 | [Github Lingual Stats Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Github_Stats_Analysis.ipynb) | Education | EDA |
 | 70 | [Omicron Tweet Sentiments](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Omicron_Tweet_Sentiments.ipynb) | Healthcare | NLP |
 | 71 | [Playstore Review Sentiments Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Playstore_Reviews_Sentiment_Analysis.ipynb) | IT & Media | NLP |
+| 72 | [Horse Survival Prediction](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Horse_Survival_Prediction.ipynb) | Healthcare | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
