@@ -25,9 +25,9 @@ A genre defines the field in which a problem exists.
 | 2 | Deep Learning (DL) | 8 |
 | 3 | Exporatory Data Analysis (EDA) | 19 |
 | 4 | Time Series Analysis (TSA) | 11 | 
-| 5 | Natural Language Processing (NLP) | 12 | 
+| 5 | Natural Language Processing (NLP) | 13 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 77 |
+| T | Total Works | 78 |
 
 
 ### Table of Contents:
@@ -113,6 +113,7 @@ A genre defines the field in which a problem exists.
 | 75 | [Employee Attrition Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Employee_Attrition_Analysis.ipynb) | Human Resource | ML |
 | 76 | [Geospatial Analysis of Waste](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Geospatial_Analysis_of_Wastes.ipynb) | Nature | EDA |
 | 77 | [Drug Classification](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Drug_Classification.ipynb) | Healthcare | ML |
+| 78 | [Password Similarity Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Password_Similarity_Analysis.ipynb) | Cyber security | NLP |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
