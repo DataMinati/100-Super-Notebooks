@@ -117,6 +117,7 @@ A genre defines the field in which a problem exists.
 | 79 | [Crime Analysis in India](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Crime_Analysis_in_India.ipynb) | Public Security | EDA |
 | 80 | [Energy Consumption EDA](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Energy_Consumption_TSA.ipynb) | Oil, Minerals & Energy | TSA |
 | 81 | [Water Body Flow Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Water_Bodies_Flow_Analysis.ipynb) | Nature | EDA |
+| 82 | [White Wine Quality Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/White_Wine_Quality_Analysis.ipynb) | Food & Lifestyle | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
