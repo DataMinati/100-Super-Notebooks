@@ -26,8 +26,8 @@ A genre defines the field in which a problem exists.
 | 3 | Exploratory Data Analysis (EDA) | 22 |
 | 4 | Time Series Analysis (TSA) | 12 | 
 | 5 | Natural Language Processing (NLP) | 13 | 
-| 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 83 |
+| 6 | Image Processing Computer Vision (IPCV) | 2 |
+| T | Total Works | 84 |
 
 
 ### Table of Contents:
@@ -119,6 +119,7 @@ A genre defines the field in which a problem exists.
 | 81 | [Water Body Flow Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Water_Bodies_Flow_Analysis.ipynb) | Nature | EDA |
 | 82 | [White Wine Quality Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/White_Wine_Quality_Analysis.ipynb) | Food & Lifestyle | ML |
 | 83 | [Education Affected by COVID-19 Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Education_Affected_by_COVID_19.ipynb) | Education | EDA |
+| 84 | [Whale vs Dolphin Analysis](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Whale_Dolphin_Analysis_%F0%9F%90%B3%F0%9F%90%AC.ipynb) | Nature | IPCV |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
