@@ -21,13 +21,13 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 26 |
+| 1 | Machine Learning (ML) | 27 |
 | 2 | Deep Learning (DL) | 8 |
 | 3 | Exploratory Data Analysis (EDA) | 21 |
 | 4 | Time Series Analysis (TSA) | 12 | 
 | 5 | Natural Language Processing (NLP) | 13 | 
 | 6 | Image Processing Computer Vision (IPCV) | 1 |
-| T | Total Works | 81 |
+| T | Total Works | 82 |
 
 
 ### Table of Contents:
