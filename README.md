@@ -26,8 +26,8 @@ A genre defines the field in which a problem exists.
 | 3 | Exploratory Data Analysis (EDA) | 22 |
 | 4 | Time Series Analysis (TSA) | 12 | 
 | 5 | Natural Language Processing (NLP) | 13 | 
-| 6 | Image Processing Computer Vision (IPCV) | 7 |
-| T | Total Works | 89 |
+| 6 | Image Processing Computer Vision (IPCV) | 8 |
+| T | Total Works | 90 |
 
 
 ### Table of Contents:
@@ -125,6 +125,7 @@ A genre defines the field in which a problem exists.
 | 87 | [Vegetable Image Classification (using CNN)](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Vegetable_Image_Classification_(CNN).ipynb) | Agriculture | IPCV |
 | 88 | [Traffic Light Detection (using CNN)](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Traffic_Light_Detection_(CNN).ipynb) | Transportation | IPCV |
 | 89 | [Medical MNIST Image Detection](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Medical_MNIST_Images.ipynb) | Healthcare | IPCV |
+| 90 | [Bird Species Classification](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Bird_Species_Classification.ipynb) | Nature | IPCV |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
