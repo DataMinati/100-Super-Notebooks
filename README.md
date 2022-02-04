@@ -15,7 +15,7 @@ A genre defines the field in which a problem exists.
 | Aerospace | Agriculture | Astronomy | Banking |  Customer relations |
 | Cyber security | E-Commerce | Education | Entertainment | Finance |
 | Food and Lifestyle | Healthcare | Human Resouces | IT & Media | Industries | 
-| Logistic | Nature | Oil, Minerals & Energy | Politics | Public Safety | 
+| Logistic | Nature | Oil, Minerals & Energy | Art and Craft | Public Safety | 
 | Sales & Marketing | Science & Tech | Sports & Games | Transportation | Travels |
 
 ### Divisions:
@@ -27,7 +27,8 @@ A genre defines the field in which a problem exists.
 | 4 | Time Series Analysis (TSA) | 12 | 
 | 5 | Natural Language Processing (NLP) | 13 | 
 | 6 | Image Processing Computer Vision (IPCV) | 9 |
-| T | Total Works | 91 |
+| 7 | General Adverserial Network (GAN) | 3 | 
+| T | Total Works | 94 |
 
 
 ### Table of Contents:
@@ -127,6 +128,8 @@ A genre defines the field in which a problem exists.
 | 89 | [Medical MNIST Image Detection](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Medical_MNIST_Images.ipynb) | Healthcare | IPCV |
 | 90 | [Bird Species Classification](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Bird_Species_Classification.ipynb) | Nature | IPCV |
 | 91 | [Maize Leaf Disease Prediction](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Maize_leaf_disease_prediction.ipynb) | Agriculture | ICPV |
+| 92 | [Style Transfer using GAN](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Style_Transfer_using_GAN.ipynb) | Art and Craft | GAN |
+
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
