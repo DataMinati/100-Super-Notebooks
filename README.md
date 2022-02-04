@@ -130,6 +130,7 @@ A genre defines the field in which a problem exists.
 | 91 | [Maize Leaf Disease Prediction](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Maize_leaf_disease_prediction.ipynb) | Agriculture | ICPV |
 | 92 | [Style Transfer using GAN](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Style_Transfer_using_GAN.ipynb) | Art and Craft | GAN |
 | 93 | [Art Style Application (GAN)](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Art_Style_Transfer_(GAN).ipynb) | Art and Craft | GAN |
+| 94 | [Dog Memorizer using GAN](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Dog_Memorizer_GAN.ipynb) | Nature | GAN |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
