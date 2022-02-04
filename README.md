@@ -23,12 +23,12 @@ A genre defines the field in which a problem exists.
 |-------|-----------|------------------|
 | 1 | Machine Learning (ML) | 27 |
 | 2 | Deep Learning (DL) | 9 |
-| 3 | Exploratory Data Analysis (EDA) | 23 |
+| 3 | Exploratory Data Analysis (EDA) | 24 |
 | 4 | Time Series Analysis (TSA) | 12 | 
 | 5 | Natural Language Processing (NLP) | 13 | 
 | 6 | Image Processing Computer Vision (IPCV) | 9 |
 | 7 | General Adverserial Network (GAN) | 3 | 
-| T | Total Works | 96 |
+| T | Total Works | 97 |
 
 
 ### Table of Contents:
@@ -132,7 +132,8 @@ A genre defines the field in which a problem exists.
 | 93 | [Art Style Application (GAN)](https://github.com/DataMinati/Super-Notebooks-100/blob/main/Art_Style_Transfer_(GAN).ipynb) | Art and Craft | GAN |
 | 94 | [Dog Memorizer using GAN](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Dog_Memorizer_GAN.ipynb) | Nature | GAN |
 | 95 | [Data Science Trend Analysis](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Data_Science_Trend_Analysis.ipynb) | Education | EDA |
-| 96 | [Male Female Eye Classification](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Male_Female_Eye_Classification.ipynb) | Human Resource | DL |
+| 96 | [Male Female Eye Classification](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Male_Female_Eye_Classification.ipynb) | Human Resources | DL |
+| 97 | [Kaggle Notebook Stats Analysis](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Kaggle_Notebooks_Analysis.ipynb) | Human Resources | EDA |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
