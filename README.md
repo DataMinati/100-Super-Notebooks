@@ -21,14 +21,14 @@ A genre defines the field in which a problem exists.
 ### Divisions:
 | S.No. | Divisions | No. of Notebooks |
 |-------|-----------|------------------|
-| 1 | Machine Learning (ML) | 28 |
+| 1 | Machine Learning (ML) | 29 |
 | 2 | Deep Learning (DL) | 9 |
 | 3 | Exploratory Data Analysis (EDA) | 24 |
 | 4 | Time Series Analysis (TSA) | 12 | 
 | 5 | Natural Language Processing (NLP) | 14 | 
 | 6 | Image Processing Computer Vision (IPCV) | 10 |
 | 7 | General Adverserial Network (GAN) | 3 | 
-| T | Total Works | 100 |
+| T | Total Works | 101 |
 
 
 ### Table of Contents:
@@ -137,6 +137,7 @@ A genre defines the field in which a problem exists.
 | 98 | [License Plate Detection](https://github.com/DataMinati/100-Super-Notebooks/blob/main/License_Plate_Detection.ipynb) | Trasportation | ICPV |
 | 99 | [Autism Detection and Prediction](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Autism_Detection_and_Prediction.ipynb) | Healthcare | ML |
 | 100 | [Content-based classification of Websites](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Classification_of_Websites.ipynb) | IT & Media | NLP |
+| 101 | [Crop Recommendation](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Crop_Recommendation.ipynb) | Agriculture | ML |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
