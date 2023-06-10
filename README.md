@@ -138,6 +138,8 @@ A genre defines the field in which a problem exists.
 | 99 | [Autism Detection and Prediction](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Autism_Detection_and_Prediction.ipynb) | Healthcare | ML |
 | 100 | [Content-based classification of Websites](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Classification_of_Websites.ipynb) | IT & Media | NLP |
 | 101 | [Crop Recommendation](https://github.com/DataMinati/100-Super-Notebooks/blob/main/Crop_Recommendation.ipynb) | Agriculture | ML |
+| 102 | [Solar Panel Fault Detection](https://github.com/DataMinati/100-Super-Notebooks/blob/main/solar_panel_fault_detection.ipynb) | Oil, Mineral & Energy | DL |
+| 103 | [Solar Power Generation Forecast](https://github.com/DataMinati/100-Super-Notebooks/blob/main/solar_power_generation_forecast_using_different_ml.ipynb) | Oil, Mineral & Energy | TSA |
 <hr>
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
